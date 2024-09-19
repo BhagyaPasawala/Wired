@@ -1,3 +1,5 @@
+An app to lock in and focus on a few priorities, work on them, and repeat. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
