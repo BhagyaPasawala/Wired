@@ -18,7 +18,7 @@
 .navbar-logo h1 {
   font-family: 'Inter';
   font-size: 20px;
-  font-weight: 100;
+  font-weight: 500;
 }
 
 .navbar-quote {
@@ -31,7 +31,7 @@
 .navbar-quote h1 {
   font-size: 15px;
   font-family: 'Inter';
-  font-weight: 100;
+  font-weight: 500;
 }
 
 .pomodoro-timer {
@@ -82,7 +82,7 @@
 .pomodoro-timer h2 {
   font-size: 15px;
   font-family: 'Inter';
-  font-weight: 100;
+  font-weight: 500;
 }
 
 .pomodoro-buttons {
@@ -106,7 +106,7 @@
 
 .priority-wall h2 {
   font-size: 18px;
-  font-weight: 100;
+  font-weight: 500;
   text-align: left;
   margin-bottom: 20px;
   color: #9f9f9f; 
@@ -240,7 +240,7 @@ button:hover {
 
 .photo-upload h2 {
   font-size: 18px;
-  font-weight: 100;
+  font-weight: 500;
   text-align: left;
   margin-bottom: 20px;
   color: #9f9f9f; 
@@ -317,7 +317,7 @@ input[type="file"] {
 
 .blackboard h2 {
   font-size: 18px;
-  font-weight: 100;
+  font-weight: 500;
   margin-bottom: 10px;
   color: #9f9f9f;
   text-align: left;
